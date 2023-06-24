@@ -1,0 +1,30 @@
+# REFLECTLY - Reflective Journaling AI
+
+REFLECTLY is a Reflective Journaling AI designed to assist users in exploring their thoughts and feelings, serving as a catalyst for self-discovery and personal growth. This command-line application is built using Python and leverages Chroma DB and OpenAI APIs for its functionality.
+
+## Features
+
+1. **Reflective Journaling**: REFLECTLY provides users with a platform to engage in reflective journaling. Users can express their thoughts, emotions, and experiences through text input.
+
+2. **Knowledge Base Storage**: The AI utilizes Chroma DB as a vector database to store embeddings of the knowledge base (KB). These embeddings are created during conversations with the AI and serve as long-term memory for the system, allowing it to retain critical user information.
+
+3. **Personalized AI Interaction**: REFLECTLY employs OpenAI APIs to facilitate natural language processing and generation. The AI engages in conversations with users, offering empathetic responses and meaningful insights based on the user's input.
+
+4. **Self-Discovery and Personal Growth**: By providing a safe and non-judgmental space for users to reflect and express themselves, REFLECTLY aims to support users on their journey of self-discovery and personal growth. The AI's responses and prompts encourage introspection and help users gain insights into their emotions and experiences.
+
+## Technologies Used
+
+The project utilizes the following technologies:
+
+- **Python**: The application is developed using the Python programming language, which provides a robust and versatile framework for building AI-driven applications.
+
+- **Chroma DB**: Chroma DB is used as a vector database for storing embeddings of the knowledge base. It allows efficient retrieval and storage of data, enabling the AI to maintain and recall user information effectively.
+
+- **OpenAI APIs**: OpenAI APIs are leveraged for natural language processing and generation. These APIs enable the AI to engage in conversations with users and provide meaningful responses based on the input received.
+
+## Usage
+
+To use REFLECTLY, follow these steps:
+
+1. Clone the repository:
+

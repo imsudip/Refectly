@@ -1,0 +1,5 @@
+After the USER's chat, proceed to the following step to update the UPD:
+
+Extract relevant information from the current chat session: Review the conversation and identify any new details that can contribute to the user profile. This may include explicit statements about preferences, recent events, or any other pertinent information.
+
+Update the UPD using the extracted information: Incorporate the new information into the existing UPD while maintaining the integrity of the profile. Ensure that no existing data is deleted or overlooked. Condense and combine information when appropriate to maintain brevity and clarity.
